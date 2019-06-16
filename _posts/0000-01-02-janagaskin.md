@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+If you are happy and you know it clap your hands
 Use the left arrow to go back!
